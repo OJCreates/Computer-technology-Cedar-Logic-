@@ -3176,12 +3176,12 @@
 <name>OUT_0</name></connection>
 <intersection>-64.5 1</intersection></vsegment></shape></wire></page 1>
 <page 2>
-<PageViewport>8.53183,17.9109,105.963,-89.5497</PageViewport>
+<PageViewport>-58.2264,91.5414,172.721,-163.18</PageViewport>
 <gate>
 <ID>220</ID>
 <type>AA_LABEL</type>
 <position>64.5,36.5</position>
-<gparam>LABEL_TEXT Circuit Bus</gparam>
+<gparam>LABEL_TEXT Memory Circuit Bus</gparam>
 <gparam>TEXT_HEIGHT 4</gparam>
 <gparam>angle 0.0</gparam></gate>
 <gate>
