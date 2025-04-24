@@ -9,19 +9,10 @@
 # Note that if a memory location is not represented here,
 # then it is assumed to contain the data value "0"
 
-0 : 1
-1 : 6
-2 : 1
-3 : 6
-4 : 1
-5 : 6
-6 : 1
-7 : 6
-8 : 0
-9 : 0
-A : 0
-B : 0
-C : 0
-D : 0
-E : 0
-F : 0
+0 : 0
+1 : 5
+2 : 6
+3 : 7
+A : 7
+B : 6
+C : 5

@@ -1,7 +1,7 @@
 <circuit>
 <CurrentPage>0</CurrentPage>
 <page 0>
-<PageViewport>-4.8024,11.6906,148.197,-119.871</PageViewport>
+<PageViewport>-11.0031,40.0429,141.675,-127.56</PageViewport>
 <gate>
 <ID>1</ID>
 <type>DD_KEYPAD_HEX</type>
@@ -32,7 +32,7 @@
 <gparam>KEYPAD_BOX_F 2.05,-5.65,3.65,-3.05</gparam>
 <gparam>angle 0.0</gparam>
 <lparam>OUTPUT_BITS 4</lparam>
-<lparam>OUTPUT_NUM 5</lparam></gate>
+<lparam>OUTPUT_NUM 6</lparam></gate>
 <gate>
 <ID>2</ID>
 <type>GE_LED_DISPLAY_4BIT</type>
@@ -47,7 +47,7 @@
 <ID>IN_3</ID>32 </input>
 <gparam>VALUE_BOX -1.9,-2.9,1.9,3.9</gparam>
 <gparam>angle 0.0</gparam>
-<lparam>CURRENT_VALUE 5</lparam>
+<lparam>CURRENT_VALUE 1</lparam>
 <lparam>INPUT_BITS 4</lparam>
 <lparam>NO_HOLD true</lparam>
 <lparam>SYNC_LOAD false</lparam>
@@ -108,7 +108,7 @@
 <ID>load</ID>14 </input>
 <gparam>VALUE_BOX -0.8,-0.8,0.8,1.8</gparam>
 <gparam>angle 0.0</gparam>
-<lparam>CURRENT_VALUE 5</lparam>
+<lparam>CURRENT_VALUE 6</lparam>
 <lparam>INPUT_BITS 4</lparam>
 <lparam>MAX_COUNT 15</lparam>
 <lparam>SYNC_CLEAR true</lparam>
@@ -241,7 +241,7 @@
 <ID>load</ID>34 </input>
 <gparam>VALUE_BOX -0.8,-0.8,0.8,1.8</gparam>
 <gparam>angle 0.0</gparam>
-<lparam>CURRENT_VALUE 5</lparam>
+<lparam>CURRENT_VALUE 1</lparam>
 <lparam>INPUT_BITS 4</lparam>
 <lparam>MAX_COUNT 15</lparam>
 <lparam>SYNC_CLEAR true</lparam>
@@ -338,7 +338,7 @@
 <ID>load</ID>35 </input>
 <gparam>VALUE_BOX -0.8,-0.8,0.8,1.8</gparam>
 <gparam>angle 0.0</gparam>
-<lparam>CURRENT_VALUE 5</lparam>
+<lparam>CURRENT_VALUE 8</lparam>
 <lparam>INPUT_BITS 4</lparam>
 <lparam>MAX_COUNT 15</lparam>
 <lparam>SYNC_CLEAR true</lparam>
@@ -489,7 +489,7 @@
 <ID>load</ID>50 </input>
 <gparam>VALUE_BOX -1.8,-0.8,1.8,1.8</gparam>
 <gparam>angle 0.0</gparam>
-<lparam>CURRENT_VALUE 0</lparam>
+<lparam>CURRENT_VALUE 180</lparam>
 <lparam>INPUT_BITS 8</lparam>
 <lparam>MAX_COUNT 255</lparam>
 <lparam>SYNC_CLEAR true</lparam>
@@ -2157,20 +2157,20 @@
 <name>DATA_OUT_3</name></connection>
 <intersection>16.5 0</intersection></hsegment></shape></wire></page 0>
 <page 1>
-<PageViewport>0,30.5455,153,-101.017</PageViewport></page 1>
+<PageViewport>0,189.465,482.538,-340.244</PageViewport></page 1>
 <page 2>
-<PageViewport>0,30.5455,153,-101.017</PageViewport></page 2>
+<PageViewport>0,189.465,482.538,-340.244</PageViewport></page 2>
 <page 3>
-<PageViewport>0,30.5455,153,-101.017</PageViewport></page 3>
+<PageViewport>0,189.465,482.538,-340.244</PageViewport></page 3>
 <page 4>
-<PageViewport>0,30.5455,153,-101.017</PageViewport></page 4>
+<PageViewport>0,189.465,482.538,-340.244</PageViewport></page 4>
 <page 5>
-<PageViewport>0,30.5455,153,-101.017</PageViewport></page 5>
+<PageViewport>0,189.465,482.538,-340.244</PageViewport></page 5>
 <page 6>
-<PageViewport>0,30.5455,153,-101.017</PageViewport></page 6>
+<PageViewport>0,189.465,482.538,-340.244</PageViewport></page 6>
 <page 7>
-<PageViewport>0,30.5455,153,-101.017</PageViewport></page 7>
+<PageViewport>0,189.465,482.538,-340.244</PageViewport></page 7>
 <page 8>
-<PageViewport>0,30.5455,153,-101.017</PageViewport></page 8>
+<PageViewport>0,189.465,482.538,-340.244</PageViewport></page 8>
 <page 9>
-<PageViewport>0,30.5455,153,-101.017</PageViewport></page 9></circuit>
+<PageViewport>0,189.465,482.538,-340.244</PageViewport></page 9></circuit>
